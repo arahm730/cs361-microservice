@@ -1,0 +1,1874 @@
+[
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "year": "2015",
+    "aggregate": {
+      "count": 16,
+      "sum": 43,
+      "mean": 2.6875
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "year": "2016",
+    "aggregate": {
+      "count": 21,
+      "sum": 51,
+      "mean": 2.4285714285714284
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 27,
+      "sum": 66,
+      "mean": 2.4444444444444446
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 25,
+      "sum": 55,
+      "mean": 2.2
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 25,
+      "sum": 57,
+      "mean": 2.28
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 27,
+      "sum": 44,
+      "mean": 1.6296296296296295
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 15,
+      "sum": 20,
+      "mean": 1.3333333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 20,
+      "sum": 31,
+      "mean": 1.55
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "year": "2015",
+    "aggregate": {
+      "count": 7,
+      "sum": 22,
+      "mean": 3.142857142857143
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "year": "2016",
+    "aggregate": {
+      "count": 16,
+      "sum": 51,
+      "mean": 3.1875
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 30,
+      "sum": 104,
+      "mean": 3.466666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 23,
+      "sum": 67,
+      "mean": 2.9130434782608696
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 12,
+      "sum": 38,
+      "mean": 3.1666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 17,
+      "sum": 42,
+      "mean": 2.4705882352941178
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 10,
+      "sum": 22,
+      "mean": 2.2
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 15,
+      "sum": 32,
+      "mean": 2.1333333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "165",
+      "name": "Intro to Computer Science (Accelerated)"
+    },
+    "year": "2015",
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "165",
+      "name": "Intro to Computer Science (Accelerated)"
+    },
+    "year": "2016",
+    "aggregate": {
+      "count": 7,
+      "sum": 17,
+      "mean": 2.4285714285714284
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "165",
+      "name": "Intro to Computer Science (Accelerated)"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 13,
+      "sum": 33,
+      "mean": 2.5384615384615383
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "165",
+      "name": "Intro to Computer Science (Accelerated)"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 6,
+      "sum": 15,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "165",
+      "name": "Intro to Computer Science (Accelerated)"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 3,
+      "sum": 8,
+      "mean": 2.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "199",
+      "name": "Companion Course"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "year": "2015",
+    "aggregate": {
+      "count": 17,
+      "sum": 47,
+      "mean": 2.764705882352941
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "year": "2016",
+    "aggregate": {
+      "count": 17,
+      "sum": 45,
+      "mean": 2.6470588235294117
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 40,
+      "sum": 96,
+      "mean": 2.4
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 26,
+      "sum": 68,
+      "mean": 2.6153846153846154
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 25,
+      "sum": 81,
+      "mean": 3.24
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 28,
+      "sum": 99,
+      "mean": 3.5357142857142856
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 16,
+      "sum": 55,
+      "mean": 3.4375
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 16,
+      "sum": 56,
+      "mean": 3.5
+    }
+  },
+  {
+    "course": {
+      "subject": "MTH",
+      "id": "231",
+      "name": "Elements of Discrete Mathematics"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 1,
+      "sum": 3,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "year": "2015",
+    "aggregate": {
+      "count": 13,
+      "sum": 38,
+      "mean": 2.923076923076923
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "year": "2016",
+    "aggregate": {
+      "count": 16,
+      "sum": 47,
+      "mean": 2.9375
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 37,
+      "sum": 104,
+      "mean": 2.810810810810811
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 11,
+      "sum": 31,
+      "mean": 2.8181818181818183
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 13,
+      "sum": 39,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 15,
+      "sum": 33,
+      "mean": 2.2
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 10,
+      "sum": 31,
+      "mean": 3.1
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 22,
+      "sum": 70,
+      "mean": 3.1818181818181817
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "year": "2015",
+    "aggregate": {
+      "count": 11,
+      "sum": 42,
+      "mean": 3.8181818181818183
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "year": "2016",
+    "aggregate": {
+      "count": 26,
+      "sum": 93,
+      "mean": 3.576923076923077
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 31,
+      "sum": 99,
+      "mean": 3.193548387096774
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 21,
+      "sum": 67,
+      "mean": 3.1904761904761907
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 19,
+      "sum": 60,
+      "mean": 3.1578947368421053
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 25,
+      "sum": 80,
+      "mean": 3.2
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 14,
+      "sum": 48,
+      "mean": 3.4285714285714284
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 22,
+      "sum": 81,
+      "mean": 3.6818181818181817
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "year": "2015",
+    "aggregate": {
+      "count": 6,
+      "sum": 21,
+      "mean": 3.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "year": "2016",
+    "aggregate": {
+      "count": 14,
+      "sum": 46,
+      "mean": 3.2857142857142856
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 28,
+      "sum": 69,
+      "mean": 2.4642857142857144
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 17,
+      "sum": 43,
+      "mean": 2.5294117647058822
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 9,
+      "sum": 19,
+      "mean": 2.111111111111111
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 16,
+      "sum": 45,
+      "mean": 2.8125
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 14,
+      "sum": 32,
+      "mean": 2.2857142857142856
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 21,
+      "sum": 56,
+      "mean": 2.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "year": "2015",
+    "aggregate": {
+      "count": 4,
+      "sum": 19,
+      "mean": 4.75
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "year": "2016",
+    "aggregate": {
+      "count": 19,
+      "sum": 74,
+      "mean": 3.8947368421052633
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 15,
+      "sum": 58,
+      "mean": 3.8666666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 23,
+      "sum": 93,
+      "mean": 4.043478260869565
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 11,
+      "sum": 41,
+      "mean": 3.727272727272727
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 11,
+      "sum": 39,
+      "mean": 3.5454545454545454
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 10,
+      "sum": 33,
+      "mean": 3.3
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 12,
+      "sum": 36,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "year": "2015",
+    "aggregate": {
+      "count": 9,
+      "sum": 15,
+      "mean": 1.6666666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "year": "2016",
+    "aggregate": {
+      "count": 19,
+      "sum": 41,
+      "mean": 2.1578947368421053
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 18,
+      "sum": 41,
+      "mean": 2.2777777777777777
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 17,
+      "sum": 35,
+      "mean": 2.0588235294117645
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 9,
+      "sum": 17,
+      "mean": 1.8888888888888888
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 8,
+      "sum": 19,
+      "mean": 2.375
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 8,
+      "sum": 16,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 14,
+      "sum": 32,
+      "mean": 2.2857142857142856
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "year": "2015",
+    "aggregate": {
+      "count": 1,
+      "sum": 5,
+      "mean": 5.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "year": "2016",
+    "aggregate": {
+      "count": 19,
+      "sum": 62,
+      "mean": 3.263157894736842
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 12,
+      "sum": 38,
+      "mean": 3.1666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 13,
+      "sum": 49,
+      "mean": 3.769230769230769
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 10,
+      "sum": 34,
+      "mean": 3.4
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 7,
+      "sum": 25,
+      "mean": 3.5714285714285716
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 9,
+      "sum": 40,
+      "mean": 4.444444444444445
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 18,
+      "sum": 73,
+      "mean": 4.055555555555555
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "year": "2015",
+    "aggregate": {
+      "count": 7,
+      "sum": 12,
+      "mean": 1.7142857142857142
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "year": "2016",
+    "aggregate": {
+      "count": 15,
+      "sum": 22,
+      "mean": 1.4666666666666666
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 9,
+      "sum": 15,
+      "mean": 1.6666666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 9,
+      "sum": 22,
+      "mean": 2.4444444444444446
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 3,
+      "sum": 4,
+      "mean": 1.3333333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 3,
+      "sum": 6,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 2,
+      "sum": 4,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 6,
+      "sum": 10,
+      "mean": 1.6666666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "year": "2015",
+    "aggregate": {
+      "count": 2,
+      "sum": 3,
+      "mean": 1.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "year": "2016",
+    "aggregate": {
+      "count": 21,
+      "sum": 34,
+      "mean": 1.619047619047619
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 11,
+      "sum": 22,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 24,
+      "sum": 45,
+      "mean": 1.875
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 11,
+      "sum": 21,
+      "mean": 1.9090909090909092
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 5,
+      "sum": 10,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 9,
+      "sum": 11,
+      "mean": 1.2222222222222223
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 7,
+      "sum": 7,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "year": "2016",
+    "aggregate": {
+      "count": 13,
+      "sum": 22,
+      "mean": 1.6923076923076923
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 9,
+      "sum": 17,
+      "mean": 1.8888888888888888
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 14,
+      "sum": 24,
+      "mean": 1.7142857142857142
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 7,
+      "sum": 12,
+      "mean": 1.7142857142857142
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 8,
+      "sum": 13,
+      "mean": 1.625
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 8,
+      "sum": 13,
+      "mean": 1.625
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 9,
+      "sum": 17,
+      "mean": 1.8888888888888888
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "year": "2016",
+    "aggregate": {
+      "count": 20,
+      "sum": 63,
+      "mean": 3.15
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 9,
+      "sum": 25,
+      "mean": 2.7777777777777777
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 14,
+      "sum": 42,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 3,
+      "sum": 10,
+      "mean": 3.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 4,
+      "sum": 14,
+      "mean": 3.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 12,
+      "sum": 31,
+      "mean": 2.5833333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 10,
+      "sum": 26,
+      "mean": 2.6
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "373",
+      "name": "Defense Against the Dark Arts"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 2,
+      "sum": 4,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "373",
+      "name": "Defense Against the Dark Arts"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 6,
+      "sum": 12,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "373",
+      "name": "Defense Against the Dark Arts"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 6,
+      "sum": 8,
+      "mean": 1.3333333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "373",
+      "name": "Defense Against the Dark Arts"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 2,
+      "sum": 7,
+      "mean": 3.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419",
+      "name": "Software Projects"
+    },
+    "year": "2016",
+    "aggregate": {
+      "count": 5,
+      "sum": 16,
+      "mean": 3.2
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419",
+      "name": "Capstone"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 2,
+      "sum": 2,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 9,
+      "sum": 22,
+      "mean": 2.4444444444444446
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 2,
+      "sum": 4,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 4,
+      "sum": 8,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 3,
+      "sum": 4,
+      "mean": 1.3333333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 2,
+      "sum": 2,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "427",
+      "name": "Cryptography"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 3,
+      "sum": 13,
+      "mean": 4.333333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "464",
+      "name": "Open Source Software"
+    },
+    "year": "2016",
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "464",
+      "name": "Open Source Software"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 8,
+      "sum": 9,
+      "mean": 1.125
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "464",
+      "name": "Open Source Software"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 2,
+      "sum": 2,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "464",
+      "name": "Open Source Software"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 3,
+      "sum": 3,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "464",
+      "name": "Open Source Software"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 2,
+      "sum": 2,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "464",
+      "name": "Open Source Software"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 2,
+      "sum": 2,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "464",
+      "name": "Open Source Software"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "475",
+      "name": "Intro to Parallel Programming"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 3,
+      "sum": 6,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "475",
+      "name": "Intro to Parallel Programming"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 5,
+      "sum": 12,
+      "mean": 2.4
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "475",
+      "name": "Intro to Parallel Programming"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 3,
+      "sum": 6,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "475",
+      "name": "Intro to Parallel Programming"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 4,
+      "sum": 7,
+      "mean": 1.75
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "475",
+      "name": "Intro to Parallel Programming"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 8,
+      "sum": 11,
+      "mean": 1.375
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "475",
+      "name": "Intro to Parallel Programming"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 5,
+      "sum": 10,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "492",
+      "name": "Mobile Software Development"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 1,
+      "sum": 5,
+      "mean": 5.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "492",
+      "name": "Mobile Software Development"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 3,
+      "sum": 10,
+      "mean": 3.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "493",
+      "name": "Cloud Application Development"
+    },
+    "year": "2019",
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "493",
+      "name": "Cloud Application Development"
+    },
+    "year": "2020",
+    "aggregate": {
+      "count": 2,
+      "sum": 5,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "493",
+      "name": "Cloud Application Development"
+    },
+    "year": "2021",
+    "aggregate": {
+      "count": 2,
+      "sum": 5,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "493",
+      "name": "Cloud Application Development"
+    },
+    "year": "2022",
+    "aggregate": {
+      "count": 1,
+      "sum": 3,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "496",
+      "name": "Mobile and Cloud Software Development"
+    },
+    "year": "2016",
+    "aggregate": {
+      "count": 15,
+      "sum": 52,
+      "mean": 3.466666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "496",
+      "name": "Mobile and Cloud Software Development"
+    },
+    "year": "2017",
+    "aggregate": {
+      "count": 5,
+      "sum": 13,
+      "mean": 2.6
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "496",
+      "name": "Mobile and Cloud Software Development"
+    },
+    "year": "2018",
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  }
+]
