@@ -24,3 +24,4 @@ This microservice calculates the difficulty statistics for CS courses at OSU ove
 
 
 ## UML Sequence Diagram
+![UML Sequence Diagram](https://github.com/arahm730/cs361-microservice/blob/main/UML-sequence-diagram.png)
