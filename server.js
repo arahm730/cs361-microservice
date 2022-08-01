@@ -1,9 +1,12 @@
 const express = require("express");
+const cors = require("cors");
+
 const app = express();
 const PORT = 3000;
 
 const data = require("./data/course_year_aggregate.json")
 
+app.use(cors())
 const fiveYearData = data.filter(
   (entry) => 2018 <= parseInt(entry.year) && parseInt(entry.year) <= 2022
 );
